@@ -72,7 +72,7 @@ function smtp_mailer($to,$subject, $msg){
 	$mail->CharSet = 'UTF-8';
 	//$mail->SMTPDebug = 2; 
 	$mail->Username = "adityapillai786@gmail.com";
-	$mail->Password = "jxjj alrh qkak rsru";
+	$mail->Password = "1234 1234 1234 1234";
 	$mail->SetFrom("adityapillai786@gmail.com");
 	$mail->Subject = $subject;
 	$mail->Body =$msg;
